@@ -4,5 +4,4 @@
 > An embedded developer from China.  
 > Loves new technology.
 
-🔗 https://EchoHeim.github.io/  
 🔗 https://echoheim.github.io/AutoBuildTools/

@@ -4,4 +4,4 @@
 > An embedded developer from China.  
 > Loves new technology.
 
-🔗 https://echoheim.github.io/AutoBuildTools/
+🔗 [MacLodge`s Blog](https://echoheim.github.io/AutoBuildTools/)

@@ -4,4 +4,4 @@
 > An embedded developer from China.  
 > Loves new technology.
 
-🔗 [MacLodge`s Blog](https://echoheim.github.io/actapb/)
+🔗 [MacLodge`s Blog](https://echoheim.netlify.app)

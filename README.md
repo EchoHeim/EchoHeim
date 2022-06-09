@@ -7,9 +7,11 @@
 <!-- 🔗 [MacLodge`s Blog](https://echoheim.netlify.app) -->
 
 <p align="center">
-  ### Hi, I'm MacLodge👋
-> An embedded developer from China.  
-> Loves new technology.
+  <h3> Hi, I'm MacLodge👋 </h3>
+  <font size="5" color="red">An embedded developer from China.</font>
+  <br>
+  <font size="2" color="blue">Loves new technology.</font>
+  <br><br>
   
   <a href="https://blog.csdn.net/hsl416604093" target="_blank">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>

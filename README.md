@@ -8,7 +8,7 @@
   <br><br>
   
   &emsp;
-  <a href="https://pwaga.js.org/" target="_blank">
+  <a href="https://shilong.js.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-launchpad.svg" width="28px"/>
   </a> 
   &emsp;&emsp;

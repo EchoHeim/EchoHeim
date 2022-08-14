@@ -1,9 +1,8 @@
 <div>
   <h1>
-    <div>
+    <div class="dd">
       &ensp; Hi, I'm MacLodge👋 
       <img align="right" src="https://profile-counter.glitch.me/EchoHeim/count.svg" />
-      &emsp;&emsp;
     </div>
   </h1>
   <font>&emsp;&emsp;🍀 An embedded developer from China.</font>

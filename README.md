@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=true&hide=stars&theme=prussian" />
+
 
 <p align="left">
   <h3> Hi, I'm MacLodge👋 </h3>
@@ -20,5 +22,3 @@
   </a>
   <br>
 </p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&icon_color=805AD5&text_color=5cb3cc&bg_color=ffffff&hide_title=true&hide=stars&theme=prussian" />

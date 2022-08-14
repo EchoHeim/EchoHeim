@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&icon_color=805AD5&text_color=5cb3cc&bg_color=ffffff&hide_title=true" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&icon_color=805AD5&text_color=5cb3cc&bg_color=ffffff&hide_title=true&hide=contribs,prs" />
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim)](https://github.com/anuraghazra/github-readme-stats" />

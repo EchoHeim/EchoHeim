@@ -1,4 +1,4 @@
-<div class="" style="max-wIDth: 20%; max-height: 20%;">
+<div>
 <a href="https://github.com/EchoHeim/Astapb">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&theme=nightowl&card_width=100" />
 </a>
@@ -27,7 +27,7 @@
 </div>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&theme=nightowl&card_width=445&line_height=10" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide=stars&theme=nightowl" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&theme=nightowl&card_width=445" width="445" height="300"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide=stars&theme=nightowl" width="445" height="300"/> 
 </div>
 

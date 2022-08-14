@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=true&hide=stars&theme=prussian" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide=stars&theme=prussian" />
 
 
 <p align="left">
@@ -22,3 +22,5 @@
   </a>
   <br>
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb)](https://github.com/anuraghazra/github-readme-stats)

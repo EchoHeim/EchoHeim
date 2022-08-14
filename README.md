@@ -1,7 +1,5 @@
 <div>
-<a href="https://github.com/EchoHeim/Astapb">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&hide_border=true&theme=calm&card_width=0" width="450px"/>
-</a>
+
 
 <p align="left">
   <h1>&ensp; Hi, I'm MacLodge👋 </h3>
@@ -32,4 +30,12 @@
   </a>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide_border=true&hide=stars&theme=calm"/> 
 </div>
+
+<a href="https://github.com/EchoHeim/Astapb">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&hide_border=true&theme=calm&card_width=0"/>
+</a>
+
+<a href="https://github.com/EchoHeim/GithubAction">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=GithubAction&hide_border=true&theme=calm&card_width=0"/>
+</a>
 

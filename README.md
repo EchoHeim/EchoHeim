@@ -1,6 +1,6 @@
 <div>
 <a href="https://github.com/EchoHeim/Astapb">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&theme=nightowl&card_width=0" width="450px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&hide_border=true&theme=calm&card_width=0" width="450px"/>
 </a>
 
 <p align="left">
@@ -27,7 +27,9 @@
 </div>
 
 <div style="width:800px;float:center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&theme=nightowl&card_width=265"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide=stars&theme=nightowl"/> 
+  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&hide_border=true&theme=calm&card_width=265"/>
+  </a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide_border=true&hide=stars&theme=calm"/> 
 </div>
 

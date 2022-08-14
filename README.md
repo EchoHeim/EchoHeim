@@ -1,6 +1,6 @@
 <div>
 <a href="https://github.com/EchoHeim/Astapb">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&theme=nightowl&card_width=0" width="400px"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&theme=nightowl&card_width=0" width="450px"/>
 </a>
 
 <p align="left">

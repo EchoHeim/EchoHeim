@@ -27,7 +27,7 @@
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&theme=nightowl&card_width=445" width="445" height="300"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide=stars&theme=nightowl" width="445" height="300"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&theme=nightowl&card_width=445" width="400" height="200"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide=stars&theme=nightowl" width="400" height="200"/> 
 </div>
 

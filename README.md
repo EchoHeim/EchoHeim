@@ -26,7 +26,7 @@
 </p>
 </div>
 
-<div style="width:800px;float:center;">
+<div style="width:900px;float:center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&theme=nightowl"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide=stars&theme=nightowl"/> 
 </div>

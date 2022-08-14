@@ -4,7 +4,7 @@
 </a>
 
 <p align="left">
-  <h2> &emsp;&emsp; Hi, I'm MacLodge👋 </h3>
+  <h1>&ensp; Hi, I'm MacLodge👋 </h3>
   <font>&emsp;&emsp;🍀 An embedded developer from China.</font>
   <br>
   <font>&emsp;&emsp;🎐 Loves new technology.</font>

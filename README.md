@@ -13,7 +13,7 @@
   &emsp;
   <a href="https://shilong.js.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-launchpad.svg" width="28px"/>
-  </a> 
+  </a>
   &emsp;&emsp;
   <a href="https://blog.csdn.net/hsl416604093" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-csdn.svg" width="28px"/>
@@ -27,7 +27,7 @@
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&theme=nightowl&card_width=445" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&theme=nightowl" width="400" height="200"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide=stars&theme=nightowl" width="400" height="200"/> 
 </div>
 

@@ -22,4 +22,4 @@
   <br>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?EchoHeim=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoHeim)](https://github.com/anuraghazra/github-readme-stats)

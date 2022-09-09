@@ -8,7 +8,29 @@
   <font>&emsp;&emsp;🍀 An embedded developer from China.</font>
   <br>
   <font>&emsp;&emsp;🎐 Loves new technology.</font>
-  <br> <br>
+  
+  <div align="right">
+  <a href="https://shilong.js.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-launchpad.svg" width="40px"/>
+  </a>
+  &emsp;
+  <a href="https://blog.csdn.net/hsl416604093" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-csdn.svg" width="40px"/>
+  </a>
+  &emsp;
+  <a href= "http://985.so/bx6dg" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-wechat.svg" width="40px"/>
+  </a>
+  &emsp;
+  <a href="https://www.facebook.com/shilong.native" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-facebook.svg" width="40px"/>
+  </a>
+  &emsp;
+  <a href="https://twitter.com/Root_HSL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-twitter.svg" width="40px"/>
+  </a>
+  &emsp;&emsp;
+</div>
 </div>
 
 <div align="center">

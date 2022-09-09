@@ -5,13 +5,10 @@
       <img align="right" src="https://profile-counter.glitch.me/EchoHeim/count.svg" />
     </div>
   </h1>
-  <br>
-  <font>&emsp;&emsp;🍀 An embedded developer from China.</font>
-  <br>
   
-  <div align="left">
+  <font>&emsp;&emsp;🍀 An embedded developer from China.</font>
+  <br><br>
   <font>&emsp;&emsp;🎐 Loves new technology.</font>
-  </div>
 
   <div align="right">
     <a href="https://shilong.js.org/" target="_blank">

@@ -28,7 +28,7 @@
       <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-facebook.svg" width="40px"/>
     </a>
     &emsp;
-    <a href="https://twitter.com/Root_HSL" target="_blank">
+    <a href="https://twitter.com/EchoSolum" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/EchoHeim/Astapb/docs/images/icons8-twitter.svg" width="40px"/>
     </a>
     &emsp;&emsp;

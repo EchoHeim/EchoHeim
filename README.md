@@ -1,3 +1,9 @@
+
+<div align="center">
+    <img  src="https://github.com/EchoHeim/EchoHeim/blob/main/img/logo.gif" />
+  <img src="https://raw.githubusercontent.com/EchoHeim/EchoHeim/output/github-contribution-grid-snake-dark.svg" >
+</div>
+
 <h1>
   <div class="dd">
     &ensp; Hi, I'm MacLodge👋 
@@ -34,6 +40,8 @@
     &emsp;&emsp;
   </div>
 </div>
+
+
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">

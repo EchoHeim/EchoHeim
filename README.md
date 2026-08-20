@@ -44,18 +44,18 @@
 
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&hide_border=true&theme=calm&card_width=335"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide_border=true&hide=stars&theme=calm&line_height=24"/> 
+  <a href="https://github.com/anuraghazra/github-stats-extended/blob/master/docs/readme_cn.md">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&hide_border=true&theme=calm&card_width=335"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide_border=true&hide=stars&theme=calm&line_height=24"/> 
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/EchoHeim/Astapb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&hide_border=true&card_width=0&theme=calm"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&hide_border=true&card_width=0&theme=calm"/>
   </a>
   <a href="https://github.com/EchoHeim/GithubAction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EchoHeim&repo=GithubAction&hide_border=true&card_width=0&theme=calm"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=EchoHeim&repo=GithubAction&hide_border=true&card_width=0&theme=calm"/>
   </a>
 </div>
 

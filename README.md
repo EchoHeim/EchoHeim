@@ -1,15 +1,19 @@
 
 <div align="center">
-    <img  src="https://github.com/EchoHeim/EchoHeim/blob/main/img/logo.gif" />
-  <img src="https://raw.githubusercontent.com/EchoHeim/EchoHeim/output/github-contribution-grid-snake-dark.svg" >
+    <img src="https://github.com/EchoHeim/EchoHeim/blob/main/img/logo.gif" />
+    <img src="https://raw.githubusercontent.com/EchoHeim/EchoHeim/output/github-contribution-grid-snake-dark.svg" >
 </div>
+
 
 <h1>
   <div class="dd">
     &ensp; Hi, I'm MacLodge👋 
-    <img align="right" src="https://profile-counter.glitch.me/EchoHeim/count.svg" />
+     <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img align="right" src="https://komarev.com/ghpvc/?username=EchoHeim&style=for-the-badge&abbreviated=true&color=blueviolet&label=🐵PROFILE+VIEWS">
+     </a>
   </div>
 </h1>
+
 
 <div>
   <div align="left">
@@ -49,6 +53,7 @@
     <img src="https://github-stats-extended.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide_border=true&hide=stars&theme=calm&line_height=24"/> 
   </a>
 </div>
+
 
 <div align="center">
   <a href="https://github.com/EchoHeim/Astapb">

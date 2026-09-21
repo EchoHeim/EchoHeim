@@ -49,18 +49,18 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-stats-extended/blob/master/docs/readme_cn.md">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&hide_border=true&theme=calm&card_width=335"/>
-    <img src="https://github-stats-extended.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide_border=true&hide=stars&theme=calm&line_height=24"/> 
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&hide_border=true&theme=calm_pink&card_width=335"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide_border=true&hide=stars&theme=calm_pink&line_height=24"/> 
   </a>
 </div>
 
 
 <div align="center">
   <a href="https://github.com/EchoHeim/Astapb">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&hide_border=true&card_width=0&theme=calm"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=EchoHeim&repo=Astapb&hide_border=false&card_width=0&theme=calm_pink"/>
   </a>
   <a href="https://github.com/EchoHeim/GithubAction">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=EchoHeim&repo=GithubAction&hide_border=true&card_width=0&theme=calm"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=EchoHeim&repo=GithubAction&hide_border=false&card_width=0&theme=calm_pink"/>
   </a>
 </div>
 

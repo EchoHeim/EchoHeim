@@ -45,10 +45,8 @@
   </div>
 </div>
 
-
-
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-stats-extended/blob/master/docs/readme_cn.md">
+  <a href="https://github-stats-extended.vercel.app/frontend/">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EchoHeim&layout=compact&hide_border=true&theme=calm_pink&card_width=335"/>
     <img src="https://github-stats-extended.vercel.app/api?username=EchoHeim&show_icons=true&hide_title=false&hide_border=true&hide=stars&theme=calm_pink&line_height=24"/> 
   </a>
